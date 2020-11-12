@@ -58,10 +58,8 @@ printf " \e[1;31m| ###        | ###\e[0m\e[0m\n"
 printf " \e[1;31m|/__/        |/__/\e[0m\e    \n"
 printf "\n"
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m https://sabunmandi.my.id\e[0m\n"
-}
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m github.com/SABUNMANDICYBERTEAM/followinsta\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m https://sabunmandi.my.id/ (info@sabunmandi.my.id)\e[0m\n"
 }
 
 
